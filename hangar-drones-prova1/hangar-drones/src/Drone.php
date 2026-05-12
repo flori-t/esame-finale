@@ -9,6 +9,7 @@ final class Drone
     public const STATUS_DOCKED = 'docked';
     public const STATUS_IN_FLIGHT = 'in_flight';
     public const STATUS_MAINTENANCE = 'maintenance';
+    public const STATUS_RETIRED = 'retired';
 
     private string $id;
     private int $flightMinutes;
@@ -60,6 +61,11 @@ final class Drone
     public function isInMaintenance(): bool
     {
         return $this->status === self::STATUS_MAINTENANCE;
+    }
+
+    public function isRetired(): bool
+    {
+        return $this->status === self::STATUS_RETIRED;
     }
 
     /**
