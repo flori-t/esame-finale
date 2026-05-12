@@ -119,6 +119,6 @@ final class Drone
             throw new \RuntimeException("Drone {$this->id} is not in flight");
         }
 
-        $this->flightMinutes = $flightMinutes;
+        $this->flightMinutes += $flightMinutes;
     }
 }
