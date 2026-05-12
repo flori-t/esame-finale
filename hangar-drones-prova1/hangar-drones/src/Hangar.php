@@ -17,6 +17,9 @@ final class Hangar
     /** @var array<string,true> */
     private array $inFlightIds = [];
 
+    /** @var array<string,true> */
+    private array $retiredIds = [];
+
     public function __construct(int $capacity)
     {
         if ($capacity < 1) {
@@ -49,6 +52,11 @@ final class Hangar
     public function inFlightCount(): int
     {
         return count($this->inFlightIds);
+    }
+
+    public function retiredCount(): int
+    {
+        return count($this->retiredIds);
     }
 
     public function hasFreeSlot(): bool
@@ -172,6 +180,24 @@ final class Hangar
         $this->docked[$droneId] = $drone;
     }
 
+    public function retireDrone(string $droneId): void
+
+    {
+        $droneId = trim($droneId);
+        if ($droneId === '') {
+            throw new \InvalidArgumentException('droneId must be a non-empty string');
+        }
+        if (!isset($this->maintenance[$droneId])) {
+            throw new \RuntimeException("Drone $droneId is not in maintenance");
+        }
+
+        $drone = $this->maintenance[$droneId];
+        unset($this->maintenance[$droneId]);
+
+        $drone->retireDrone();
+        $this->retired[$droneId] = $drone;
+    }
+
     /**
      * @return list<string>
      */
@@ -194,5 +220,13 @@ final class Hangar
     public function inFlightDroneIds(): array
     {
         return array_values(array_keys($this->inFlightIds));
+    }
+
+    /**
+     * @return list<string>
+     */
+    public function retiredDroneIds(): array
+    {
+        return array_values(array_keys($this->retiredIds));
     }
 }
