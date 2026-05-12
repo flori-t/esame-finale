@@ -181,7 +181,6 @@ final class Hangar
     }
 
     public function retireDrone(string $droneId): void
-
     {
         $droneId = trim($droneId);
         if ($droneId === '') {

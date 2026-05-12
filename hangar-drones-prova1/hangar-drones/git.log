@@ -1,0 +1,250 @@
+PS C:\Programmi\Ampps\www\esame-finale\hangar-drones-prova1\hangar-drones> git log -g --all --pretty=fuller
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: refs/remotes/origin/main@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: refs/heads/main@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: merge feature/retire-drone: Fast-forward
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: HEAD@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: merge feature/retire-drone: Fast-forward
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: HEAD@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: checkout: moving from feature/retire-drone to main
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: refs/remotes/origin/feature/retire-drone@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: refs/heads/feature/retire-drone@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Aggiunta retire alla classe Drone
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit bedbb011c7fdc22f1ee2c9544df8c2dd00eba03f (HEAD -> main, origin/main, origin/feature/retire-drone, origin/HEAD, feature/retire-drone)
+Reflog: HEAD@{2} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Aggiunta retire alla classe Drone
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:17:50 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:17:50 2026 +0200
+
+    Aggiunta retire alla classe Drone
+
+commit 5ec8d5361ba6fb671555968acc2c6d7468ab46bc
+Reflog: refs/remotes/origin/feature/retire-drone@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:14:44 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:14:44 2026 +0200
+
+    Aggiunta retire nella classe Hangar
+
+commit 5ec8d5361ba6fb671555968acc2c6d7468ab46bc
+Reflog: refs/heads/feature/retire-drone@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Aggiunta retire nella classe Hangar
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:14:44 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:14:44 2026 +0200
+
+    Aggiunta retire nella classe Hangar
+
+commit 5ec8d5361ba6fb671555968acc2c6d7468ab46bc
+Reflog: HEAD@{3} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Aggiunta retire nella classe Hangar
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 13:14:44 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 13:14:44 2026 +0200
+
+    Aggiunta retire nella classe Hangar
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: HEAD@{4} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: checkout: moving from main to feature/retire-drone
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: refs/remotes/origin/main@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: refs/heads/feature/retire-drone@{2} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: branch: Created from main
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: refs/heads/main@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: merge bugfix/flight-minutes-accumulation: Fast-forward
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: HEAD@{5} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: merge bugfix/flight-minutes-accumulation: Fast-forward
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: refs/remotes/origin/HEAD@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: fetch
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: HEAD@{6} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: checkout: moving from bugfix/flight-minutes-accumulation to main
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: refs/remotes/origin/bugfix/flight-minutes-accumulation@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: refs/heads/bugfix/flight-minutes-accumulation@{0} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Bug fixato
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 19b6b504fe91e43ebc8c7f39bb3e3a11a897718b (origin/bugfix/flight-minutes-accumulation, bugfix/flight-minutes-accumulation)
+Reflog: HEAD@{7} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit: Bug fixato
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 12:58:04 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 12:58:04 2026 +0200
+
+    Bug fixato
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: HEAD@{8} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: checkout: moving from main to bugfix/flight-minutes-accumulation
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: refs/heads/bugfix/flight-minutes-accumulation@{1} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: branch: Created from main
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: refs/remotes/origin/main@{2} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: update by push
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: refs/heads/main@{2} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit (initial): Aggiunta file .gitignore al repository
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
+
+commit 6a5087087bf002dbe6db49524ec88682e02faf50
+Reflog: HEAD@{9} (Aula - Firenze <floritrifi22@gmail.com>)
+Reflog message: commit (initial): Aggiunta file .gitignore al repository
+Author:     Aula - Firenze <floritrifi22@gmail.com>
+AuthorDate: Tue May 12 11:29:03 2026 +0200
+Commit:     Aula - Firenze <floritrifi22@gmail.com>
+CommitDate: Tue May 12 11:29:03 2026 +0200
+
+    Aggiunta file .gitignore al repository
